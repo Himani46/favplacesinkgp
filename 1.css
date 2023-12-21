@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+@font-face {
+    font-family: "Gamingfont";
+    src: url('/gamingfont.otf') format('opentype');
+}
+
+.tit {
+    font-family: 'Gamingfont', sans-serif;
+    font-size: 70px;
+    text-align: center;
+}
+
+.a {
+    height: 500px;
+    width: 400px;
+    background-color: rgb(235, 255, 210);
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin: 0 30px; /* Adjust margin */
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Gamingfont', sans-serif;
+    padding-top: 10px;
+}
+
+.q {
+    border-radius: 10%;
+}
+
+.text {
+    font-size: medium;
+    padding: auto;
+}
