@@ -8,6 +8,13 @@
     font-family: "Gamingfont";
     src: url('gamingfont.otf') format('opentype');
 }
+  body {
+            margin: 0;
+            padding: 0;
+            background-image: url('bg.webp');
+            background-size: cover;
+            background-position: center;
+        }
 
 
 
