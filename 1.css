@@ -27,6 +27,7 @@
     margin: 0 30px; /* Adjust margin */
     text-align: center;
     font-size: 40px;
+    box-sizing: borderbox;
     font-family: 'Gamingfont', sans-serif;
     padding-top: 10px;
 }
