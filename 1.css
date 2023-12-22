@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: "Gamingfont";
-    src: url('/gamingfont.otf') format('opentype');
+    src: url('path/to/gamingfont.otf') format('opentype');
 }
 
 .tit {
