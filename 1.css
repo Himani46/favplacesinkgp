@@ -6,8 +6,9 @@
 
 @font-face {
     font-family: "Gamingfont";
-    src: url('firstproject\gamingfont.otf') format('opentype');
+    src: url('/path/to/gamingfont.otf') format('opentype');
 }
+
 
 .tit {
     font-family: 'Gamingfont', sans-serif;
