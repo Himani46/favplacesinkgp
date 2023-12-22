@@ -18,7 +18,7 @@
 }
 
 .a {
-    height:600px;
+    height:800px;
     width: 400px;
     background-color: rgb(235, 255, 210);
     display: inline-block;
@@ -36,6 +36,6 @@
 }
 
 .text {
-    font-size: 10;
+    font-size: 30;
     padding: auto;
 }
