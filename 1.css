@@ -8,7 +8,8 @@
     font-family: "Gamingfont";
     src: url('gamingfont.otf') format('opentype');
 }
-  body {
+
+ body {
             margin: 0;
             padding: 0;
             background-image: url('bg.webp');
